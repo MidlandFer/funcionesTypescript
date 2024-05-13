@@ -10,6 +10,7 @@ function dibujarLinea(){
 }
 
 dibujarLinea();
+return Linea;
 
 
 
