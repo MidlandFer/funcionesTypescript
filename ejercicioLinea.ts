@@ -1,4 +1,5 @@
 let linea:string =" ";
+
 for(let i:number=0; i<= 40; i++){
     linea= linea + "-"
 }
