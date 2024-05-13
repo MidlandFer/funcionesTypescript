@@ -7,10 +7,11 @@ function dibujarLinea(){
     }
     console.log(linea);
 
-}
+
 
 dibujarLinea();
-return Linea;
+return linea;
+}
 
 
 
