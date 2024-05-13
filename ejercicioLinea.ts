@@ -4,3 +4,4 @@ for(let i:number=0; i<= 40; i++){
 }
 console.log(linea);
 
+
